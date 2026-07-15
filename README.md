@@ -44,7 +44,7 @@ I am also diving deep into <b>Machine Learning</b>, aspiring to become an <b>Alg
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nazukida/Nazukida/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nazukida/Nazukida/output/snake_dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nazukida/Nazukida/output/snake.svg">
   <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Nazukida/Nazukida/output/snake.svg">
 </picture>
