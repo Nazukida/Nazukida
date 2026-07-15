@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
@@ -21,10 +21,33 @@ Here are some ideas to get you started:
 
 <p>
 I am currently studying at <b>Beijing Normal-Hong Kong Baptist University</b>. 🎓<br>
-Prior to university, I hadn't even played computer games. <br>
-Now, I am exploring the vast world of <b>Computer Science</b>. 💻<br>
-I am an <b>ACM</b> beginner, passionately learning algorithms. 🚀
+I am exploring the vast world of <b>Computer Science</b>. 💻<br>
+I am an <b>ACM</b> beginner, passionately learning algorithms. 🚀<br>
+I am also diving deep into <b>Machine Learning</b>, aspiring to become an <b>Algorithm Engineer</b>. 🤖
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nazukida&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nazukida&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nazukida&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nazukida/Nazukida/output/snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nazukida/Nazukida/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Nazukida/Nazukida/output/snake.svg">
+</picture>
 
 ---
 
@@ -49,4 +72,3 @@ I am an <b>ACM</b> beginner, passionately learning algorithms. 🚀
 </p>
 
 </div>
-
